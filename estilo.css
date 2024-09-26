@@ -1,0 +1,107 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+}
+/*-------------------------------------------section1-----------------------------------------------------*/
+.section-topo{
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+    height: 30px;
+    padding: 5px 0; 
+}
+.links{
+
+}
+.logo{
+    display: flex;
+    width: fit-content;
+}
+
+.img-logo{
+    width: 100px;
+    height: 40px;
+}
+
+.game{
+    font-size: 18px ;
+    padding: 5px;
+}
+/*-------------------------------------------section2-----------------------------------------------------*/
+.section-banner{
+    text-align: center;
+    height: 600px;  
+}
+
+.BemV{
+    padding: 10px;
+}
+
+.banner{
+    width: 100%;
+}
+
+/*-------------------------------------------section3-----------------------------------------------------*/
+.section-somos{
+    text-align: center;
+}
+
+.p-somos{
+    width: 800px;
+    text-align: justify;
+}
+
+.p-somos-roxo{
+    width: 800px;
+    text-align: justify;
+    background-color: rgb(182, 130, 231);
+    margin-right: 550px;
+    padding: 5px;
+    width: fit-content;
+}
+
+.h3-somos{
+    padding: 10px;
+}
+
+/*-------------------------------------------section4-----------------------------------------------------*/
+.section-vendidos{
+    text-align: center;
+    padding:20px 0;
+}
+
+.geraltabela{
+    width: 800px;
+    height: 300px;
+}
+
+.tab{
+     background-color: rgb(99, 104, 107);
+     padding: 10px;
+}
+
+.t1{
+    background-color: rgb(83, 21, 141);
+    padding: 10px;
+}
+
+.t2{
+    background-color: rgb(183, 142, 223);
+    padding: 10px;
+}
+
+.h3-vendidos{
+    padding: 10px;
+}
+
+.p-vendidos{
+    width: 800px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.p-final{
+    text-align: center;
+    background-color: blueviolet;
+ }
